@@ -1,0 +1,4 @@
+> I donot want to miss out my university announcemments thats why i wrote the program
+> To scrape data from my university website using beautifulsoup 
+> send the scraped data to my phone using pushbullet API 
+> 
